@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jScrollPane1" min="-2" pref="748" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="12" max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jButton4" min="-2" pref="67" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" min="-2" pref="612" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jButton4" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="9" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="&#xa;PRIVACY POLICY&#xa;&#xa;Last Updated: 10/10/2021&#xa;&#xa;Tales Of Time.org, including all of its features and content and related or commonly-owned or controlled websites (&#x201c; Website &#x201d;), is a service made available by Bookshop, Inc. (&#x201c;Bookshop.org&#x201d;), a public benefit corporation that provides independently owned booksellers, industry partners, and conscious consumers with a direct-to-consumer e-commerce solution competitive to that of major retailers.&#xa;&#xa;Quick Guide to Contents&#xa;&#xa;    How This Privacy Policy Applies&#xa;&#xa;    What Information Bookshop.org Collects and Receives&#xa;&#xa;    How Tales Of Time.org Uses the Information It Collects&#xa;&#xa;    How Tales Of Time.org Shares the Information It Collects&#xa;&#xa;    Tracking and Other Technologies&#xa;&#xa;    Your Rights&#xa;&#xa;    Links to Other Websites and Services&#xa;&#xa;    Data Retention&#xa;&#xa;    Cross-Border Data Transfers&#xa;&#xa;    Children&#x2019;s Privacy&#xa;&#xa;    Security&#xa;&#xa;    Updates to this Privacy Policy&#xa;&#xa;    Contact Us&#xa;&#xa;    How This Privacy Policy Applies&#xa;&#xa;By using the Website, you are accepting the practices described in this Privacy Policy (including new versions of this Privacy Policy when and as they go into effect) and Bookshop.org&#x2019;s Terms of Use (&#x201c;Terms of Use&#x201d;), which governs this Privacy Policy applies to those persons or entities who (i) purchase products on the Website, (ii) sell products on the Website through Bookshop.org&#x2019;s Platform Seller Program (each, a &#x201c;Platform Seller&#x201d;), and (iii) participate in Bookshop.org&#x2019;s Affiliate Program (each, an &#x201c;Affiliate&#x201d;) (collectively, &#x201c;Users,&#x201d; and each, a &#x201c;User&#x201d;, &#x201c;you&#x201d; or &#x201c;your&#x201d;). Capitalized words not defined in this Privacy Policy are defined in the Terms of Use. In the event of a conflict between this Privacy Policy and the terms and conditions applicable to the Platform Seller Program and the Affiliate Program, respectively, such terms and conditions applicable to the Platform Seller Program and the Affiliate Program shall apply respectively.&#xa;&#xa;This Privacy Policy describes the information Bookshop.org collects from you through the Website, how Bookshop.org uses that information, and its legal basis for doing so. It also covers whether and how that information may be shared and your rights and choices regarding such information. For residents of the European Economic Area, Bookshop.org is the data controller responsible for your information.&#xa;&#xa;    What Information Tales Of Time.org Collects and Receives&#xa;&#xa;In order for you to use the Website, Bookshop.org needs to collect and process certain information, which depending on how you use the Website, may include the following.&#xa;&#xa;        Information You Provide &#xa;&#xa;Bookshop.org collects information you provide by using the Website, such as when:&#xa;&#xa;    Platform Sellers post Content (as such terms are defined in the Terms of Use).&#xa;&#xa;    Users complete forms on or through the Website or subscribe to our newsletters or emails. The information you provide may include your name, email address, mailing address, or telephone number.&#xa;&#xa;    Make a request or transaction through the Website. Tales Of Time.org and Platform Sellers offer products for sale through the Website, and Bookshop.org and its payment processor will need to collect and use information such as your name, mailing address, billing address, email address, telephone number, and payment card information to process these requests and transactions.&#xa;&#xa;    Communicate with Bookshop.org, such as when you request support, submit comments or questions, or report a problem to Bookshop.org.&#xa;&#xa;    2. Information Automatically Collected&#xa;&#xa;Tales Of Time.org also automatically or passively collects information that relates to your usage of the Website or that is necessary for the proper functioning or improvement of the Website, including:&#xa;&#xa;    Times and dates and the extent of your usage of the Website.&#xa;&#xa;    Time zone, language, screen resolution, and other usage preferences you select when using the Website.&#xa;&#xa;    Device keyboard settings.&#xa;&#xa;    Usage history such as areas and pages within the Website that you access or use and/or which buttons on the Website you click on.&#xa;&#xa;    The search terms you entered into a search engine that may have led you to the Website.&#xa;&#xa;    The Internet service provider (ISP) or mobile platform you use.&#xa;&#xa;    Other device and Website access information such as your browser type, operating system, Internet Protocol (IP) address, referring/exit pages, and other unique device identifiers.&#xa;&#xa;Tales Of Time.org also collects and maintain aggregated, anonymized, or pseudonymized information to protect the safety and security of the Website, improve the Website, or comply with its legal obligations.&#xa;&#xa;You may decline to provide Bookshop.org with some or all of your information. However, doing so will limit your ability to use the Website.&#xa;&#xa;    How Bookshop.org Uses the Information It Collects&#xa;&#xa;Tales Of Time.org uses the information it collects from and about you for the following purposes::&#xa;&#xa;    To enable Bookshop.org to provide you and other Users with the Website, and to improve, protect, and promote the Website and services;&#xa;&#xa;    To address inquiries and respond to customer service requests, questions, and comments;&#xa;&#xa;    To contact you with newsletters, offers, promotions, and other product specials or to customize your experience on the Website;&#xa;&#xa;    To track and analyze use of the Website and Bookshop.org&#x2019;s services, such as to identify trends, conduct data analysis, and determine the effectiveness of marketing and promotion efforts, and other service offerings, so that Bookshop.org can improve its performance and provide Users with the best experience possible;&#xa;&#xa;    To maintain security and to enforce the Terms of Use and comply with applicable law; and&#xa;&#xa;    For other purposes that Bookshop.org believes are necessary to protect its rights and the rights of others, or as otherwise described to you at the time of collection.&#xa;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="jButton4">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="76" green="8b" red="0" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="18" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Back"/>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.BevelBorderInfo">
+            <BevelBorder>
+              <Color PropertyName="highlightOuter" blue="ff" green="cc" red="cc" type="rgb"/>
+              <Color PropertyName="highlightInner" blue="ff" green="0" red="0" type="rgb"/>
+            </BevelBorder>
+          </Border>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jButton4MouseClicked"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton4ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
